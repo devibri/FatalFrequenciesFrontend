@@ -1,6 +1,6 @@
 # Fatal Frequencies Visualization
 
-See the latest build of the project at: https://www.devi-a.com/FatalFrequenciesFrontend
+See the latest build of the project at: [https://www.devi-a.com/FatalFrequenciesFrontend](https://devibri.github.io/FatalFrequenciesFrontend/)
 
 ## About the project
 This project was started as part of my work at the Expressive Intelligence Studio at the University of California, Santa Cruz. For the project, I was interested in exploring how we can use computational tools to help better visualize and provide suggestions for game masters of tabletop roleplaying games. This allows GMs to track what has happened in the game world, and uses knowledge of the current state (as well as a Prolog knowledge database) to provide suggestions for what can happen next.
